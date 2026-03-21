@@ -21,7 +21,7 @@ To further validate genome quality, contamination assessment was performed using
 📊 Results
 <br>
 Total genomes analyzed: ~900
-High-quality genomes (≥95% completeness): ~400
+High-quality genomes (≥95% completeness): ~432
 CSV file generated for structured analysis and interpretation
 <br>
  Conclusion
