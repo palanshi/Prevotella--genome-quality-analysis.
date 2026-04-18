@@ -2,10 +2,12 @@
 <br>
 Genome Quality Assessment of Prevotella Strains
 <br>
+
  Objective
 <br>
 To assess the quality of multiple Prevotella genomes by evaluating completeness and contamination using standard bioinformatics tools.
 <br>
+
  Methodology
  <br>
 A total of ~900 Prevotella genome assemblies were downloaded from the NCBI database using an Ubuntu-based environment.
@@ -18,7 +20,8 @@ Quantify the number of high-quality genomes
 Approximately 400 genomes were identified as complete based on BUSCO analysis.
 To further validate genome quality, contamination assessment was performed using CheckM on the same dataset.
 <br>
-📊 Results
+
+Results
 <br>
 Total genomes analyzed: ~900
 High-quality genomes (≥95% completeness): ~432
