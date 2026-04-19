@@ -221,18 +221,6 @@ completeness ≥ 95% to `results/high_quality_genomes.csv`.
 | BUSCO takes very long to run | Each genome takes 2-5 minutes × 676 genomes | Used `--cpu 2` per run and ran sequentially with progress tracking |
 
 ---
-
-## Next Steps (Future Work)
-
-With 442 high-quality *Prevotella copri* genomes confirmed, the natural next
-steps for this project would be:
-
-- **Gene Annotation** — Use Prokka to identify and name all genes in each genome
-- **Pangenome Analysis** — Use Roary or Panaroo to find core genes (present in all 442) vs accessory genes (present in only some)
-- **Phylogenetic Tree** — Build an evolutionary tree showing how the 442 strains are related
-- **Virulence Gene Search** — Screen for known disease-associated genes
-- **Antibiotic Resistance Screening** — Check for resistance genes using AMRFinder
-
 ---
 
 ## Citation
@@ -253,8 +241,8 @@ If you use this pipeline or dataset, please cite:
 
 ## Author
 
-**[Your Name]**
-BSc Biochemistry | [Your Institution]
+Anshika Pal
+BSc Biochemistry | Institute of Home Economics
 
 ---
 
