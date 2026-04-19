@@ -1,0 +1,14 @@
+# Large genome files — download directly from NCBI
+*.fna
+*.faa
+*.gff
+*.gbk
+ncbi_dataset/
+busco_*/
+
+# CheckM output folders
+checkm_output/
+
+# Keep results files
+!results/*.csv
+!results/*.xlsx
